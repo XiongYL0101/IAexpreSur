@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1657446831135.000,
+    "dirty" : false,
+    "encoding" : "CP936",
+    "folds" : "",
+    "hash" : "417714642",
+    "id" : "A3CC713",
+    "lastKnownWriteTime" : 1657446983,
+    "last_content_update" : 1657446983279,
+    "path" : "D:/data/data16/IA score/IAexpreSur/R/IApre1.R",
+    "project_path" : "R/IApre1.R",
+    "properties" : {
+        "cursorPosition" : "25,4",
+        "scrollLine" : "12",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
